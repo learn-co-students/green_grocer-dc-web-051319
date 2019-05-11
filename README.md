@@ -1,5 +1,5 @@
 ## Objectives
-Create a checkout method to calculate the total cost of a cart of items and apply discounts and coupons as necessary.
+Create a checkout method to calculate the total cost of a cart of items and apply discounts and coupons as necessary.https://learn.co/tracks/web-development-fundamentals/intro-to-ruby/bonus-advanced-hashes/green-grocer#
 
 Dr. Steve Bruhle, your green grocer, isn't ready, but you are!
 
